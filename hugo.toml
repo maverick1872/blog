@@ -23,7 +23,7 @@ theme        = "hello-friend-ng"
   enableGlobalLanguageMenu = false
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "Trash ramblings"
   keywords = "homepage, blog, technology"
   images = [""]
 
